@@ -1,9 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Untitled Document</title>
-
 <style>
 
 header nav ul {
@@ -107,46 +101,21 @@ footer {
   background-color: #f7fafc;
 }
 
+.bio-text a{
+  font-family: "Dosis", "Helvetica Neue", helvetica, sans-serif;
+	
+}
+.bio-text {
+	max-width: 800px;
+    margin: auto;
+}
+.bio-pix img{
+	
+}
+.service-list{
+	font-family: "Dosis", "Helvetica Neue", helvetica, sans-serif;
+	
+}
+
 
 </style>
-
-
-</head>
-
-<body>
-
-
-
-<div class="page-wrap">
-  <header>
-    <div class="logo"><a href="#"><h1>Hair By NN</h1></a></div>
-    <nav role='navigation'>
-      <ul>
-        <li><a class="active" href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Gallery</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <div class="content">
-    <div class="container">
-      <h2 class="headln">Main Content</h2>
-      <h3 class="subheadln">Another headline</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum possimus corporis odio id voluptatum fuga praesentium dignissimos perferendis velit architecto excepturi atque aspernatur fugit accusamus ex libero, mollitia eaque. Labore, ad eos,
-        id, quo accusantium distinctio, deleniti in fugit natus repellendus vero reiciendis earum! Reiciendis explicabo quo ratione, accusamus qui.</p>
-      <h3 class="subheadln">And yet another headline</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab nisi necessitatibus, quis. Voluptatibus tenetur est culpa quod quibusdam soluta delectus dolorem illum impedit eaque, reprehenderit incidunt quasi velit alias, similique dignissimos ratione
-        omnis excepturi sequi perspiciatis tempore fugiat reiciendis. Adipisci rem ad consequuntur ipsum, consequatur velit iure pariatur nihil ab.</p>
-    </div>
-  </div>
-</div>
-
-<footer>
-  <p>&copy; All Rights Reserved.</p>
-</footer>
-
-</body>
-</html>
