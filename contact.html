@@ -29,16 +29,16 @@
     <div id="contact-area" >
     <form method="post" action="contactengine.php">
 				<label for="Name">First Name:</label>
-				<input type="text" name="Name" id="FirstName" />
+				<input type="text" name="Name" id="FirstName" required placeholder="Enter your first name" />
 				
 				<label for="LastName">Last Name:</label>
-				<input type="text" name="LastName" id="LastName" />
+				<input type="text" name="LastName" id="LastName" required placeholder="Enter your last name" />
 	
 				<label for="Email">Email:</label>
-				<input type="text" name="Email" id="Email" />
+				<input type="text" name="Email" id="Email" required placeholder="Enter your email"  />
 				
 				<label for="Message">Message:</label><br />
-				<textarea name="Message" rows="20" cols="20" id="Message"></textarea>
+				<textarea name="Message" rows="20" cols="20" id="Message" required placeholder="Enter your description" ></textarea>
 
 				<input type="submit" name="submit" value="Submit" class="submit-button" />
 			</form>
