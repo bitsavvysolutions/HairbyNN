@@ -80,8 +80,8 @@ header nav a.active, header nav a:hover {
 }
 
 .content {
-  margin-left: 15px;
-  margin-right: 15px;
+	margin: auto;
+	width: 60%;
 }
 .content .headln {
   font-size: 42px;
